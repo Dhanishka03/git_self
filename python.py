@@ -1,2 +1,2 @@
 print("Hello")
-print("Abi")
+print("This is Git GitHub Self Learning Course")
